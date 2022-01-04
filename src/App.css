@@ -1,0 +1,30 @@
+td, tr, th, table { 
+    border: 2px solid black;
+    padding: 20px;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+body, button {
+  font-size: 20px;
+}
+.tableButton{
+  padding: 0;
+  size: 50px;
+  margin: 0;
+}
+.searchContainer{
+  display: flex;
+  justify-content: center;
+}
+h1,h2{
+  display: flex;
+  justify-content: center;
+}
+.addUpdateContainer{
+  display: flex;
+
+  justify-content: center;
+}
